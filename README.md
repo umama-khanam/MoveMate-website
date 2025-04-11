@@ -32,6 +32,5 @@ This project provides an intuitive front-end layout for a relocation service pla
 ---
 
 ## 🔗 Live Demo
-
-[Coming Soon or GitHub Pages Link]
+ https://umama-khanam.github.io/MoveMate-website/
 
